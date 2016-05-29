@@ -1,0 +1,273 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"S",
+				"S0"
+			],
+			[
+				"ham",
+				"ham1"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/dmehrab06/django/djangotips.txt",
+			"settings":
+			{
+				"buffer_size": 452,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/dmehrab06/Desktop/djangoenv18",
+		"/home/dmehrab06/Desktop/djangoenv18/Unit testing",
+		"/home/dmehrab06/Desktop/djangoenv18/Unit testing/tuts",
+		"/home/dmehrab06/Desktop/djangoenv18/src",
+		"/home/dmehrab06/Desktop/djangoenv18/src/carts",
+		"/home/dmehrab06/Desktop/djangoenv18/src/ecommerce2",
+		"/home/dmehrab06/Desktop/djangoenv18/src/newsletter",
+		"/home/dmehrab06/Desktop/djangoenv18/src/orders",
+		"/home/dmehrab06/Desktop/djangoenv18/src/static_in_pro",
+		"/home/dmehrab06/Desktop/djangoenv18/src/static_in_pro/our_static",
+		"/home/dmehrab06/Desktop/djangoenv18/src/static_in_pro/our_static/css",
+		"/home/dmehrab06/Desktop/djangoenv18/static_in_env",
+		"/home/dmehrab06/Desktop/djangoenv18/static_in_env/media_root",
+		"/home/dmehrab06/Desktop/djangoenv18/static_in_env/static_root",
+		"/home/dmehrab06/Desktop/djangoenv18/static_in_env/static_root/admin",
+		"/home/dmehrab06/Desktop/djangoenv18/static_in_env/static_root/admin/css"
+	],
+	"file_history":
+	[
+		"/media/dmehrab06/Workplace/3-2/hackerearth/may circuit/booboo.cpp",
+		"/media/dmehrab06/Workplace/3-2/hackerearth/may circuit/boobootravel.cpp",
+		"/home/dmehrab06/Desktop/djangoenv18/static_in_env/static_root/admin/css/base.css",
+		"/home/dmehrab06/Desktop/runserver.sh",
+		"/home/dmehrab06/Desktop/djangoenv18/pip-selfcheck.json",
+		"/home/dmehrab06/Desktop/djangoenv18/bin/activate",
+		"/media/dmehrab06/Workplace/3-2/hackerearth/may circuit/bgbg.cpp",
+		"/media/dmehrab06/Workplace/3-2/networking lab/DVR/C++ socket prog/try again/router4.txt",
+		"/media/dmehrab06/Workplace/3-2/networking lab/DVR/C++ socket prog/try again/router2.txt",
+		"/media/dmehrab06/Workplace/3-2/networking lab/DVR/C++ socket prog/try again/router1.txt",
+		"/media/dmehrab06/Workplace/3-2/networking lab/DVR/C++ socket prog/try again/router3.txt"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/dmehrab06/django/djangotips.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 452,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								452,
+								452
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "trydjango18.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
